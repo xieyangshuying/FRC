@@ -1,5 +1,5 @@
 # Fiber Recording Together with Cystometry (FRC)
-FRC is an open-source MATLAB program used for synchronized recording data analysis, including fiber data, bladder pressure data and mouse behavior data. This toolbox is demonstrated in the paper "Simultaneous measurement of neuronal activity in the pontine micturition center and cystometry in freely moving mice"
+FRC is an open-source MATLAB program used for synchronized recording data analysis, including fiber data, bladder pressure data and mouse behavior data. This toolbox is demonstrated in the paper "Simultaneous measurement of neuronal activity in the pontine micturition center and cystometry in freely moving mice".
 ## Installation
 #### 1.	Extract the ZIP file (or clone the GitHub repository) somewhere you can easily reach it.
 #### 2.	Add the FRC/ folder to your path in MATLAB by e.g.,
