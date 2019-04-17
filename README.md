@@ -34,5 +34,5 @@ The "Save Data" function is to save the information of synchronize data includin
 *The software was tested on MATLAB R2014a version.
 
 ## Contact:
-Jiwei Yao (moerfusi@126.com)
-Shanshan Liang (15340520947@163.com)
+##### Jiwei Yao (moerfusi@126.com)
+##### Shanshan Liang (15340520947@163.com)
