@@ -9,9 +9,9 @@ This toolbox is demonstrated in the paper *****(link:)
 3.	Run the script GUI: FRC.m
 
 # Usage
-1.	Load Video data:
+1.  Load Video data:
 The “Load Video” function is to load a video file (such as *.avi file), and the “Play Video” function is to play video files. The “Pause” function is to pause the playing video, and the “Stop” function is to stop the playing video.
-2.	Draw Marker Light:
+2.  Draw Marker Light:
 The “Draw Marker Light” function is to draw the location of marker light in video. The larger the rectangular area is, the longer the calculation time is. 
 3.	Get Movie Marker:
 The “Movie Marker” function is to get the frame (or time) when the light is on. In order to shorten the calculation time, we only calculated the first two minutes of the video as default. 
