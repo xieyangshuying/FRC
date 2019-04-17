@@ -1,14 +1,14 @@
 # FRC
 FRC is an open-source MATLAB program used for synchronized recording data analysis, including fiber data, bladder pressure data and mouse behavior data. 
 This toolbox is demonstrated in the paper *****(link:)
-Installation
+# Installation
 1.	Extract the ZIP file (or clone the GitHub repository) somewhere you can easily reach it.
 2.	Add the FRC/ folder to your path in MATLAB by e.g.,
 ① using the “Set Path” dialog in MATLAB;
 ② running the “addpath” function from your command window or startup script.
 3.	Run the script GUI: FRC.m
 
-Usage
+# Usage
 1.	Load Video data:
 The “Load Video” function is to load a video file (such as *.avi file), and the “Play Video” function is to play video files. The “Pause” function is to pause the playing video, and the “Stop” function is to stop the playing video.
 2.	Draw Marker Light:
@@ -32,8 +32,8 @@ All three markers must be obtained firstly, then you only need to drag the slide
 11.	Save and Exit:
 The “Save Data” function is to save the information of synchronize data including fiber data and pressure data. And the “Exit” function is to end the procedure.
 
-*The software was tested on MATLAB R2014a version.
+* The software was tested on MATLAB R2014a version.
 
-Contact:
+# Contact:
 Jiwei Yao (moerfusi@126.com)
 Shanshan Liang (15340520947@163.com)
