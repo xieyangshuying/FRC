@@ -9,7 +9,7 @@ FRC is an open-source MATLAB program used for synchronized recording data analys
 
 ## Usage
 #### 1.	Load Video data:
-The "Load Video" function is to load a video file (such as *.avi file), and the “Play Video” function is to play video files. The “Pause” function is to pause the playing video, and the “Stop” function is to stop the playing video.
+The "Load Video" function is to load a video file (such as *.avi file), and the "Play Video" function is to play video files. The “Pause” function is to pause the playing video, and the "Stop" function is to stop the playing video.
 #### 2.	Draw Marker Light:
 The "Draw Marker Light" function is to draw the location of marker light in video. The larger the rectangular area is, the longer the calculation time is. 
 #### 3.	Get Movie Marker:
